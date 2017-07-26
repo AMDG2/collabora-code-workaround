@@ -1,4 +1,4 @@
-FROM blang/latex
+FROM collabora/code
 
 MAINTAINER Baudouin Feildel <baudouin@feildel.fr>
 
